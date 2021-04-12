@@ -82,7 +82,7 @@ sections:
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
           dui sollicitudin, vel posuere justo laoreet.
       - author: Andrea
-        avatar: images/review3.jpg
+        avatar: images/1592904865372.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
           Integer consectetur purus neque, ac porttitor enim convallis vitae.
