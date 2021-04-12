@@ -69,7 +69,7 @@ sections:
     title: team
     reviews:
       - author: Naseem
-        avatar: images/review1.jpg
+        avatar: images/1567187812477.jpg
         avatar_alt: Eric Widget's photo
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
