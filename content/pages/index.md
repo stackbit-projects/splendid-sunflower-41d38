@@ -23,7 +23,7 @@ sections:
       e denaro preziosi
     features:
       - title: Dashboard gestionale facile e intuitiva
-        image: images/Example Dashboard (5).png
+        image: images/Example Dashboard (6).png
         image_alt: App preview on a phone and tablet
         content: >-
           Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
