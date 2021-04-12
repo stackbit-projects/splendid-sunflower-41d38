@@ -3,7 +3,6 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/Main product.png
     image_alt: App preview
     title: Massimizza le vendite dei tuoi distributori automatici
     content: >
