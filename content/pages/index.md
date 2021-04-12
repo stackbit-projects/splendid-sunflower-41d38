@@ -25,10 +25,11 @@ sections:
       - title: Dashboard gestionale facile e intuitiva
         image: images/Example Dashboard (6).png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          L'esperienza di utilizzo della nostra dashboard è senza eguali !
+          Studiata e realizzata insieme ai gestori, facile, intuitiva e
+          divertente, non perderai più tempo a causa di interfacce vecchie e
+          ricche di informazioni inutili
         actions:
           - label: Learn More
             url: /features
