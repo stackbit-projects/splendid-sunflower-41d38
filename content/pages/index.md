@@ -18,8 +18,9 @@ sections:
     background: gray
     title: Features
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Supportati da potenti algoritmi di intelligenza artificiale, i nostri
+      servizi non hanno bisogno del tuo intervento, facendoti risparmiare tempo
+      e denaro preziosi
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
