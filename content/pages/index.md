@@ -6,9 +6,9 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Massimizza le vendite dei tuoi distributori automatici
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      Le nostre app imparano dalle tue macchine e ti consigliano automaticamente
+      di cosa hanno bisogno per vendere di più
     actions:
       - label: Prova Gratis
         url: /features
