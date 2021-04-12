@@ -68,7 +68,7 @@ sections:
     background: white
     title: team
     reviews:
-      - author: Eric Widget
+      - author: Naseem
         avatar: images/review1.jpg
         avatar_alt: Eric Widget's photo
         content: >-
