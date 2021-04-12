@@ -22,7 +22,7 @@ sections:
       servizi non hanno bisogno del tuo intervento, facendoti risparmiare tempo
       e denaro preziosi
     features:
-      - title: The Best Feature of Your Services
+      - title: Dashboard gestionale facile e intuitiva
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
