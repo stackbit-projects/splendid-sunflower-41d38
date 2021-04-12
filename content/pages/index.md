@@ -31,7 +31,7 @@ sections:
           divertente, non perderai più tempo a causa di interfacce vecchie e
           ricche di informazioni inutili
         actions:
-          - label: Learn More
+          - label: Scopri di più
             url: /features
             style: secondary
             has_icon: true
