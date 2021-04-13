@@ -46,13 +46,7 @@ sections:
           mostrarti informazioni inutili, ti consigliano direttamente cosa è
           meglio fare, macchina per macchina, riducendo gli sprechi e aumentando
           le vendite
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
       - title: Cool Feature of Your Services
         image: images/feature3.png
         image_alt: App user profile preview
