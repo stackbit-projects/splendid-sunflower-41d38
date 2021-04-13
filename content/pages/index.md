@@ -43,9 +43,9 @@ sections:
         content: >
           Dati dati dati... ma nessuno che ti dice cosa vogliono dire. I nostri
           sistemi sanno di cosa hanno bisogno i tuoi clienti, e piuttosto che
-          mostrarti dati e basta, ti consigliano direttamente cosa è meglio
-          fare, macchina per macchina, riducendo gli sprechi e aumentando le
-          vendite
+          mostrarti informazioni inutili, ti consigliano direttamente cosa è
+          meglio fare, macchina per macchina, riducendo gli sprechi e aumentando
+          le vendite
         actions:
           - label: Learn More
             url: /features
