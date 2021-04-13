@@ -39,7 +39,7 @@
         "sections": [
             {
                 "type": "footer_text",
-                "image": "images/Logo Even.png",
+                "image": "images/Logo Even Grey.png",
                 "image_url": "/",
                 "image_alt": "Footer logo",
                 "content": "Stackbit theme demo"
