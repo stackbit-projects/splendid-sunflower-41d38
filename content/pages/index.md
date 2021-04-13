@@ -40,10 +40,12 @@ sections:
       - title: 'Basta pensieri, ti consigliamo noi !'
         image: images/happy-eggplant.png
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >
+          Dati dati dati... ma nessuno che ti dice cosa vogliono dire. I nostri
+          sistemi sanno di cosa hanno bisogno i tuoi clienti, e piuttosto che
+          mostrarti dati e basta, ti consigliano direttamente cosa è meglio
+          fare, macchina per macchina, riducendo gli sprechi e aumentando le
+          vendite
         actions:
           - label: Learn More
             url: /features
