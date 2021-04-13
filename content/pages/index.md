@@ -81,7 +81,9 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Vuoi essere un ambasciatore?
-    subtitle: This is an optional description for the call to action block.
+    subtitle: >-
+      E' la tua occasione per farti invidiare dalla concorrenza, i primi 50
+      clienti potranno godere di vantaggi esclusivi e assistenza illimitata
     actions:
       - label: Get Started
         url: /signup
