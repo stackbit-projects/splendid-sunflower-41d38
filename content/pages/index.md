@@ -30,13 +30,7 @@ sections:
           Studiata e realizzata insieme ai gestori, facile, intuitiva e
           divertente, non perderai più tempo a causa di interfacce vecchie e
           ricche di informazioni inutili
-        actions:
-          - label: Scopri di più
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
       - title: 'Basta pensieri, ti consigliamo noi !'
         image: images/happy-eggplant.png
         image_alt: App users welcoming a new member
