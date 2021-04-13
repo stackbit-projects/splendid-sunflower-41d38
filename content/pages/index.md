@@ -85,7 +85,7 @@ sections:
       E' la tua occasione per farti invidiare dalla concorrenza, i primi 50
       clienti potranno godere di vantaggi esclusivi e assistenza illimitata
     actions:
-      - label: Get Started
+      - label: 'Si, lo voglio !'
         url: /signup
         style: primary
   - section_id: recent-posts
