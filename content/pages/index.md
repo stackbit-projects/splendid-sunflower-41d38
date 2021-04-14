@@ -41,7 +41,7 @@ sections:
           meglio fare, macchina per macchina, riducendo gli sprechi e aumentando
           le vendite
         actions: []
-      - title: Cool Feature of Your Services
+      - title: Nessun palmare costoso è necessario
         image: images/feature3.png
         image_alt: App user profile preview
         content: >-
