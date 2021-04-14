@@ -42,7 +42,7 @@ sections:
           le vendite
         actions: []
       - title: Nessun palmare costoso è necessario
-        image: images/feature3.png
+        image: images/Screen app.png
         image_alt: App user profile preview
         content: >-
           In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
