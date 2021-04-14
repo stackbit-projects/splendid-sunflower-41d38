@@ -44,10 +44,10 @@ sections:
       - title: Nessun palmare costoso è necessario
         image: images/Screen app.png
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >
+          Grazie alle nostra app facili e comode da utilizzare direttamente con
+          il tuo smartphone potrai risparmiare tempo durante la fase di carico
+          dei tuoi distributori !
         actions:
           - label: Learn More
             url: /features
