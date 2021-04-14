@@ -48,13 +48,7 @@ sections:
           Grazie alle nostra app facili e comode da utilizzare direttamente con
           il tuo smartphone potrai risparmiare tempo durante la fase di carico
           dei tuoi distributori !
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
   - section_id: reviews
     type: section_reviews
     background: white
