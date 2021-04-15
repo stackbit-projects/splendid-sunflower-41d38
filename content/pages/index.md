@@ -41,6 +41,21 @@ sections:
           meglio fare, macchina per macchina, riducendo gli sprechi e aumentando
           le vendite
         actions: []
+      - title: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        image_alt: lorem-ipsum
+        actions: []
+        type: feature_item
       - title: Nessun palmare costoso è necessario
         image: images/Screen app.png
         image_alt: App user profile preview
