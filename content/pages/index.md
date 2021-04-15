@@ -42,7 +42,7 @@ sections:
           le vendite
         actions: []
       - title: Nessun palmare costoso è necessario
-        image: images/Screen app.png
+        image: images/incredible-eucalyptus.png
         image_alt: App user profile preview
         content: >
           Grazie alle nostra app facili e comode da utilizzare direttamente con
