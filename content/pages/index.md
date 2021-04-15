@@ -64,6 +64,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
+        image: images/Planogram.png
   - section_id: reviews
     type: section_reviews
     background: white
