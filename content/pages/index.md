@@ -49,7 +49,7 @@ sections:
           il tuo smartphone potrai risparmiare tempo durante la fase di carico
           dei tuoi distributori !
         actions: []
-      - title: lorem-ipsum
+      - title: Planogramma intelligente
         content: >-
           ## Lorem ipsum
 
