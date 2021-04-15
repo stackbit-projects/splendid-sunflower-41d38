@@ -41,6 +41,14 @@ sections:
           meglio fare, macchina per macchina, riducendo gli sprechi e aumentando
           le vendite
         actions: []
+      - title: Nessun palmare costoso è necessario
+        image: images/Screen app.png
+        image_alt: App user profile preview
+        content: >
+          Grazie alle nostra app facili e comode da utilizzare direttamente con
+          il tuo smartphone potrai risparmiare tempo durante la fase di carico
+          dei tuoi distributori !
+        actions: []
       - title: lorem-ipsum
         content: >-
           ## Lorem ipsum
@@ -56,14 +64,6 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
-      - title: Nessun palmare costoso è necessario
-        image: images/Screen app.png
-        image_alt: App user profile preview
-        content: >
-          Grazie alle nostra app facili e comode da utilizzare direttamente con
-          il tuo smartphone potrai risparmiare tempo durante la fase di carico
-          dei tuoi distributori !
-        actions: []
   - section_id: reviews
     type: section_reviews
     background: white
