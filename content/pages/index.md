@@ -49,6 +49,12 @@ sections:
           il tuo smartphone potrai risparmiare tempo durante la fase di carico
           dei tuoi distributori !
         actions: []
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    features: []
+    type: section_features
   - section_id: reviews
     type: section_reviews
     background: white
