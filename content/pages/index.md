@@ -50,17 +50,10 @@ sections:
           dei tuoi distributori !
         actions: []
       - title: Planogramma intelligente
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Un buon planogramma ti permette di ottimizzare le vendite e non far
+          scadere i prodotti. In molti casi è possibile incrementare il ricavo
+          di oltre il 40 %
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
