@@ -12,7 +12,6 @@ sections:
       - label: Prova Gratis
         url: /features
         style: primary
-    image: images/marvelous-hedgehog.png
   - section_id: features
     type: section_features
     background: gray
